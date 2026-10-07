@@ -1,0 +1,2 @@
+# AutoTransmitConclusion
+Claude对话的结论可以通过飞书的Cli终端自动转发给飞书的智能体机器人
