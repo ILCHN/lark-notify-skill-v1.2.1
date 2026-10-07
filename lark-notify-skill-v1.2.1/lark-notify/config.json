@@ -1,0 +1,5 @@
+{
+  "auto": false,
+  "user_open_id": "ou_改成你的open_id_用 lark-cli contact +get-user --as user 查询",
+  "lark_run_js": ""
+}
